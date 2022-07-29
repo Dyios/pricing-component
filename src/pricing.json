@@ -1,0 +1,24 @@
+{
+    "monthlyPricing": [{
+            "pageviews": "10K",
+            "pricing": 8
+        },
+        {
+            "pageviews": "50K",
+            "pricing": 12
+        },
+        {
+            "pageviews": "100K",
+            "pricing": 16
+        },
+        {
+            "pageviews": "500k",
+            "pricing": 24
+        },
+        {
+            "pageviews": "1M",
+            "pricing": 36
+        }
+    ],
+    "yearlyDiscount": 0.25
+}
