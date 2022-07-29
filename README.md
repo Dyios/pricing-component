@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL]()
+- [Solution URL](https://www.frontendmentor.io/solutions/pricing-component-with-react-XfKMi7LJ4s)
 - [Live Site URL](https://dyios.github.io/pricing-component/)
 
 ## My process
