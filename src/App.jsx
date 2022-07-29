@@ -75,7 +75,7 @@ function App() {
                 fontSize={{ xs: '2rem', sm: '2.5rem' }}
                 pr={1}
               >
-                {`${priceType === 'month' ? pricing.monthlyPricing[selected].pricing :
+                {`$${priceType === 'month' ? pricing.monthlyPricing[selected].pricing :
                   pricing.monthlyPricing[selected].pricing * 12 * (1 - pricing.yearlyDiscount)
                   }.00`}
               </Typography>
